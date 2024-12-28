@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shriansh006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriansh006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -11,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/en-GB/view/driving-batman-batman-caped-crusader-i'm-on-my-way-road-trip-gif-17678141949828846104"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/61/1e/30/611e30d90aa13cc67a2761b360aba116.jpg"  />
 
 ###
 
