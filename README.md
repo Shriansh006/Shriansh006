@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm a Computer Science student specializing in CSE Core 🖥️. I enjoy coding 💻, solving DSA problems 📊, and working on projects that help me grow as a developer 🚀</h2>
+<h2 align="left">Hi , I'm a Computer Science student specializing in CSE Core . I enjoy coding , solving DSA problems , and working on projects that help me grow as a developer </h2>
 
 ###
 
